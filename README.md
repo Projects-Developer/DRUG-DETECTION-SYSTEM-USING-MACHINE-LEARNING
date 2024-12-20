@@ -2,9 +2,9 @@
 
 DRUG DETECTION SYSTEM USING MACHINE LEARNING CODE, DOCUMENT AND VIDEO TUTORIAL
 
-![image](https://github.com/user-attachments/assets/9ca0530a-f032-4010-b0dc-63c2708ff96f)
+![Drug Prediction](https://github.com/user-attachments/assets/dc92dbc0-e970-4505-9837-5faf8aada439)
 
-# Youtube link: https://youtu.be/LbGl6mffhpE?si=OHKTpdZuJABYfec2
+## Youtube link: https://youtu.be/LbGl6mffhpE?si=OHKTpdZuJABYfec2
 
 ## Abstract: 
 The detection and identification of illicit drugs pose significant challenges for law enforcement, medical professionals, and researchers. This study proposes a novel drug detection system leveraging machine learning algorithms to analyze chemical compositions, molecular structures, and other relevant data. Our system achieves high accuracy in detecting unknown substances, identifying illicit drugs, and distinguishing them from legitimate medications. With real-time data analysis, continuous learning, and model updates, this system offers a robust and reliable solution for various applications, including law enforcement, healthcare, and pharmaceutical research.
